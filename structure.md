@@ -4,10 +4,10 @@
 ╚════ DMARC
 
 ##### Labels
-╔═ Security
+╔═ Security  
 ╠═ Direct  
 ╠═ Personal  
 ╠═ Finance  
 ╠═ Social  
-╠═ Entertainment 
+╠═ Entertainment  
 ╚═ Newsletter  
