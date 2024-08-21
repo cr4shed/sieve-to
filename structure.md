@@ -1,13 +1,13 @@
 ##### Folder Structure
 ╔═ Inbox  
-╠════ Security  
-╠════ Personal  
-╠════ Finance  
-╠════ Social  
-╠════ Entertainment  
 ╠════ Proton  
 ╚════ DMARC
 
 ##### Labels
-╔═ Direct  
+╔═ Security
+╠═ Direct  
+╠═ Personal  
+╠═ Finance  
+╠═ Social  
+╠═ Entertainment 
 ╚═ Newsletter  
